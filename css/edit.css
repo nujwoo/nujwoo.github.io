@@ -1,0 +1,19 @@
+.bg-primary {
+    background-color: #242424 !important;
+}
+
+.text-primary {
+    color: #1874cd !important;
+}
+
+section.resume-section {
+    min-height: 45vh !important;
+}
+
+.noupper {
+    text-transform: none !important;
+}
+
+b.me {
+    color: black;
+}
