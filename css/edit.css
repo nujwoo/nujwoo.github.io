@@ -33,3 +33,8 @@ b.me {
     height: 100%;
     /* object-fit: cover; */
 }
+
+.carousel-inner{
+  width:100%;
+  /* height: 100%; */
+}
